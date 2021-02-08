@@ -6,11 +6,11 @@ The purpose of this project is to put to test my new learned Javascript capabili
 
 
 
+<img src="https://github.com/ricardonc86/Generate_My-Password_HW3/blob/main/Assets/screencapture-ricardonc86-github-io-Generate-My-Password-HW3-2021-02-08-12_22_16.png" alt="Generator view"/>
 
 
 
 
 
 
-
-Deploy link: <a href="">Need a password? Generate one now
+Deploy link: <a href="https://ricardonc86.github.io/Generate_My-Password_HW3/">Need a password? Generate one now
