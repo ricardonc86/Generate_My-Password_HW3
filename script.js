@@ -11,7 +11,7 @@ passwordText.value = password;
 /////My Prompts and characters for password /////
 function generatePassword (){
 ///Length prompt////
-     var length = Number (prompt ("Please choose between 8 -128 characters for your password"));
+     var length = (prompt ("Please choose between 8 -128 characters for your password"));
         if (length < 8){
         prompt ("Please choose between 8-128 characters");
         length();
